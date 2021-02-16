@@ -4,8 +4,9 @@ The software license for distributing your useless junk software works which giv
 ## What is this?
 Consider this,  
 You made a hobby project that you literally bodged to work with together.  
-which is OK for you but you want to distribute the software on the internet cause you want your grass to grow on your GitHub. But you are terrified about people making fun of you with your bodged, bad code!  
-
+which is OK for you but you want to distribute the software on the internet cause you want your greeny green on your GitHub Profile's Contribution section.  
+But you are terrified about people making fun of you with your bodged, bad code!  
+  
 JSPL, Junk Software Public License will come to rescue on this point!
 
 ## So what is JSPL?
