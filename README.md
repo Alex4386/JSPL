@@ -21,8 +21,6 @@ So, your software can NOT haunt you!
 Junk Software Public License
 VERSION 1
 
-Copyright (c) 2021 Alex4386 <me@alex4386.me>
-
 Everyone is permitted to copy and distribute the software or modified version of
 this software as long as user follows the user agreement below.
 
