@@ -33,8 +33,9 @@ SOFTWARE USER LICENSE AGREEMENT
    developer/author. This includes any sort of thank you message or mention 
    in your software. Because author really thinks this software is a mistake.
 2. Software user MUST NOT GIVE AN AUTHOR A PUBLIC SHAME or give an author
-   a equivalent psychological shock/harrassment by showing this software 
-   with any relative information of author. 
+   a equivalent psychological shock/harrassment by providing information of 
+   author or information that can lead people to expect who the author of
+   this software is.
 3. You acknowledge that author thinks this software is piece of crap,
    and author will not give any WARRANTY.
    don't bother author for this piece of junk software. you do you.
